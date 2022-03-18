@@ -1,3 +1,14 @@
+---
+title: Git Tag
+group:
+  path: /git
+  title: Git
+  order: 3
+nav:
+  title: Git Tag
+  order: 2
+---
+
 # Git Tag - 打标签
 
 ## 列出所有标签
@@ -50,6 +61,12 @@ v1.5
 ```bash
 $ git tag -d v1.4-lw
 Deleted tag 'v1.4-lw' (was e7d5add)
+```
+
+## 提交标签
+
+```bash
+$ git tag origin v1.0
 ```
 
 删除`远程标签`的方式：

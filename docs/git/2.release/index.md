@@ -1,3 +1,14 @@
+---
+title: 添加Release包
+group:
+  path: /git
+  title: Git
+  order: 3
+nav:
+  title: 添加Release包
+  order: 3
+---
+
 # Release
 
 1. 在主界面界面点选 create a new release 。
